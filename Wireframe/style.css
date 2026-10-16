@@ -58,6 +58,9 @@ footer {
   left: 0;
   right: 0;
   text-align: center;
+  background: var(--paper);
+  border-top: var(--line);
+  padding: 0 var(--space);
 }
 /* ====== Articles Grid Layout ====
 Setting the rules for how articles are placed in the main element.
